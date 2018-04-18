@@ -2,7 +2,6 @@
   "name": "service/member",
   "type": "library",
   "require":{
-    "apache/thrift":"0.9.*|0.10.*|0.11.*"
   },
   "repositories": {
   },
