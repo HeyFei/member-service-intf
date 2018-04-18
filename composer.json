@@ -4,8 +4,5 @@
   "require":{
   },
   "repositories": {
-  },
-  "autoload": {
-    "classmap": ["php/"]
   }
 }
